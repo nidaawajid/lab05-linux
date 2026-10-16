@@ -1,0 +1,17 @@
+total 64
+drwxr-x--- 10 nidaawajid nidaawajid 4096 Oct 16 07:57 .
+drwxr-xr-x  3 root       root       4096 Sep 18 06:59 ..
+-rw-------  1 nidaawajid nidaawajid  627 Oct 10 10:09 .bash_history
+-rw-r--r--  1 nidaawajid nidaawajid  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 nidaawajid nidaawajid 3771 Feb 13  2026 .bashrc
+drwx------  2 nidaawajid nidaawajid 4096 Sep 18 06:04 .cache
+-rw-rw-r--  1 nidaawajid nidaawajid  184 Oct 16 07:56 .gitconfig
+-rw-------  1 nidaawajid nidaawajid   20 Oct  5 10:18 .lesshst
+drwx------  3 nidaawajid nidaawajid 4096 Oct  5 10:20 .local
+-rw-r--r--  1 nidaawajid nidaawajid  807 Feb 13  2026 .profile
+drwx------  2 nidaawajid nidaawajid 4096 Oct 16 07:51 .ssh
+drwxrwxr-x  3 nidaawajid nidaawajid 4096 Oct  5 11:53 Assignment01
+drwxrwxr-x  3 nidaawajid nidaawajid 4096 Oct  5 07:32 CC
+drwxrwxr-x  3 nidaawajid nidaawajid 4096 Oct  5 08:00 Gitea
+drwxrwxr-x  5 nidaawajid nidaawajid 4096 Oct 16 07:58 lab05-linux
+drwxrwxr-x  2 nidaawajid nidaawajid 4096 Sep 19 07:47 mylab

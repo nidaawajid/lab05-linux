@@ -1,0 +1,1 @@
+The `/bin` folder is a shortcut to `/usr/bin`, which helps older programs continue to work. The `/usr/bin` folder contains most commands installed by Ubuntu, such as `ls`. The `/usr/local/bin` folder is used for programs installed manually by the user. Keeping these programs separate helps organize the system.
